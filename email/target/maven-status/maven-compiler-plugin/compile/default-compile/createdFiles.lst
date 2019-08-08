@@ -1,0 +1,3 @@
+com\naturalprogrammer\spring\email\NaturalprogrammerSpringEmailApplication.class
+com\naturalprogrammer\spring\email\SmtpMailSender.class
+com\naturalprogrammer\spring\email\RootController.class
